@@ -1,0 +1,4 @@
+mirator
+=======
+
+Dane dla miartora
